@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					678404FC1DAC6F71002931FC = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8LAPGQR7L8;
 						ProvisioningStyle = Automatic;
 					};
 					678405131DAC6F71002931FC = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8LAPGQR7L8;
 				INFOPLIST_FILE = CoreDataPlayAround/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pleiromatics.CoreDataPlayAround;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8LAPGQR7L8;
 				INFOPLIST_FILE = CoreDataPlayAround/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pleiromatics.CoreDataPlayAround;
